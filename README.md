@@ -7,7 +7,7 @@ Bem-vindo à minha coleção de projetos front-end! Aqui você encontrará uma v
 1. ### Relógio Digital (https://relogio-digital-hazel.vercel.app/)
 
 
-2. ### To do 
+2. ### To do (andreegs.github.io/To-do/Index)
 
 ## Contribuições
 
